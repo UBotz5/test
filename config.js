@@ -32,16 +32,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6281349277979', '️Oᴡɴᴇʀ One', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Two', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Three', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Four', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Five', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Six', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Seven', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Eight', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Nine', true],
-  ['6281349277979', '️Oᴡɴᴇʀ Teen', true]
+  ['62859194145686', '️Oᴡɴᴇʀ One', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Two', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Three', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Four', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Five', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Six', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Seven', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Eight', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Nine', true],
+  ['62859194145686', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -103,18 +103,18 @@ global.xteamkey = 'NezukoTachibana281207'
 */
 
 /*Number*/
-global.nomorbot = '6283125701141'
-global.nomorown = '6281349277979' 
-global.namebot = '𝗗𝗮𝗽𝗮-𝗕𝗢𝗧𝗭'
-global.nameown = '「𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧」'
+global.nomorbot = '6281264952069'
+global.nomorown = '62859194145686' 
+global.namebot = '© AzzBotz'
+global.nameown = '「AZZ」'
 
 /*Watermark*/
-global.wm = '❖ 𝗗𝗮𝗽𝗮-𝗕𝗢𝗧𝗭 | 𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧 ❖'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝗗𝗮𝗽aMD'
+global.wm = '©AzzBotz'
+global.wm2 = 'AZZ'
+global.wm3 = 'AZZ'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By Dapa Maker`
+global.titlebot = `⫹⫺ WhatsApp Bot | By AzzBotz`
 
 /*Thumbnail*/
 global.thumbnail = 'https://telegra.ph/file/1139eacb233c973c35ddb.jpg'
@@ -407,9 +407,9 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://instagram.com/mdappaa_1'
-global.sgh = 'https://github.com/DapaZX'
-global.sgc = 'https://chat.whatsapp.com/HwiccfZVPqN7yEbEaUEkh2'
+global.sig = 'https://instagram.com'
+global.sgh = 'https://github.com'
+global.sgc = 'https://chat.whatsapp.com'
 global.sdc = 'https://discord.com/'
 global.snh = 'https://nhentai.com/'
 
@@ -453,9 +453,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `⫹⫺ WhatsappBOT Multi Device By Dapa Maker`
-global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ Dapa Maker'
-global.author = '𝘿𝙖𝙥𝙖 𝙈𝙖𝙠𝙚𝙧'
+global.stickauth = `⫹⫺ WhatsappBOT Multi Device By AzzBotz`
+global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ AzzBotz'
+global.author = 'AZZ'
 global.multiplier = 69
 
 /*Pesan*/
@@ -469,16 +469,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/HwiccfZVPqN7yEbEaUEkh2'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/'
-global.dana = ['081349277979']
-global.pulsa = ['081349277979']
+global.dana = ['081264952069']
+global.pulsa = ['081264952069']
 global.trakteer = 'https://trakteer.id/'
-global.paypal = 'kosong'
-global.gopay = '081349277979'
-global.pdana = '081349277979'
-global.povo = 'kosong'
-global.pgopay = '081349277979'
-global.ppulsa = '081349277979'
-global.ppulsa2 = '081349277979'
+global.paypal = '-'
+global.gopay = '-'
+global.pdana = '081264952069'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '081264952069'
+global.ppulsa2 = '081264952069'
 global.psaweria = 'https://saweria.com/'
 
 /*Emoji*/
